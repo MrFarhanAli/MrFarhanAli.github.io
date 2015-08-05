@@ -1,0 +1,50 @@
+body {
+   /**color: #696969;**/
+}
+
+.jumbotron {
+    background-color: #27AE60;
+	color:white;
+}
+
+h1 {
+    /**font-family: Georgia, serif;**/
+    border-bottom: 3px solid red;
+}
+
+.carousel {
+    max-height: 650px; 
+	overflow: hidden;
+}
+
+.carousel-caption {
+    position:absolute;
+    top: 15em;
+}
+
+#introMessage {
+	padding-top:20px;
+	padding-bottom:0;
+	text-align: center;
+	color:#27AE60 ;
+}
+
+#about, #services, #pricing, #contact {
+    min-height:650px;
+}
+
+#about p{
+	text-align: center;
+	margin:0 auto;
+}
+
+#about h1, #pricing h1, #contact h1{
+    font-size:2em;
+	text-align: center;
+}
+
+#services {
+	text-align: center;
+	margin:0 auto;
+}
+
