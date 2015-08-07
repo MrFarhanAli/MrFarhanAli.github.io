@@ -52,7 +52,6 @@ h1 {
     background-repeat: no-repeat;
     background-size: contain;
     opacity: 0.4;
-    filter: alpha(opacity=40)
 }
 
 #services {
