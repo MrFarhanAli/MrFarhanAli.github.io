@@ -2,6 +2,11 @@ body {
    /**color: #696969;**/
 }
 
+h1 {
+    /**font-family: Georgia, serif;**/
+    border-bottom: 3px solid red;
+}
+
 .navbar {
     background-color:white;	
 } 
@@ -9,11 +14,6 @@ body {
 .jumbotron {
     background-color: #3A539B;
 	color:white;
-}
-
-h1 {
-    /**font-family: Georgia, serif;**/
-    border-bottom: 3px solid red;
 }
 
 .carousel {
@@ -44,7 +44,13 @@ h1 {
 
 #about h1, #pricing h1, #contact h1{
     font-size:2em;
-	text-align: center;
+    text-align: center;
+}
+
+.transimage {
+    background: url(skyline-skyscrapper.jpg) repeat;	
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
 #services {
