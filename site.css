@@ -49,8 +49,7 @@ h1 {
 
 .transimage {
     background: url(skyline-skyscrapper.jpg);	
-    opacity: 0.6;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
+    
 }
 
 #services {
