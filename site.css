@@ -47,13 +47,6 @@ h1 {
     text-align: center;
 }
 
-.transimage {
-    background: url(skyline-skyscrapper.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-   
-}
-
 #services {
 	text-align: center;
 	margin:0 auto;
