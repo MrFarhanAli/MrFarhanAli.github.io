@@ -48,8 +48,9 @@ h1 {
 }
 
 .transimage {
-    background: url(skyline-skyscrapper.jpg);	
-    
+    background: url(skyline-skyscrapper.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 #services {
