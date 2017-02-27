@@ -1,3 +1,3 @@
-farhansRepo.github.io
+Welcome to Farhan's Github
 
-REDESIGN AS PORTFOLIO LANDING PAGE USING CURRENT TECHNOLOGIES - IE MEAN STACK.
+
