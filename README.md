@@ -4,6 +4,6 @@
 
 - farhansRepo.github.io
 
-###You will more information about my repositories.
+###where will find more information about my shared repositories of interest.
 
 
