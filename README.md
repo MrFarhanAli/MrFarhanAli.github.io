@@ -4,7 +4,7 @@
 
 [farhansRepo.github.io](http://www.farhansRepo.github.io)
 
-###where will find more information about 
+###where you will find more information about 
 
 ###my shared repositories of interest.
 
